@@ -1,0 +1,24 @@
+.legend h2 {
+    background-color: #17a2b8;
+    color: white;
+    padding: 0.2em;
+}
+
+.highlightGPE {
+    background-color: #ffd369;
+    color: #090057;
+}
+
+.highlightGEO {
+    background-color: #e26241;
+    color: white;
+}
+
+.legend .highlightGEO,
+.legend .highlightGPE {
+    padding: 0.5em;
+}
+
+.legend i {
+    padding-right: 1em;
+}
